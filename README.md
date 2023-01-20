@@ -1,5 +1,7 @@
 ### Hello World 👋:metal:
 
+[![Github](https://img.shields.io/github/followers/VaporFoxLash?label=Follow&style=social)](https://github.com/VaporFoxLash)
+
 <!--
 Emojis
 - 🔭 I’m currently working on ...
@@ -14,11 +16,11 @@ Emojis
 
 ------
 ### 📈 Github Stats
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaporFoxLash&show_icons=true) -->
-![VaporFoxLash's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaporFoxLash&show_icons=true&theme=radical)
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaporFoxLash)](https://github.com/VaporFoxLash/github-readme-stats)
--->
+[![VaporFoxLash's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaporFoxLash)](https://github.com/VaporFoxLash/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaporFoxLash&langs_count=8)](https://github.com/VaporFoxLash/github-readme-stats)
+
 
 ------
 ### 🔧 Technologies & Tools
