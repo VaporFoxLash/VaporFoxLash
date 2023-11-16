@@ -1,5 +1,5 @@
-<div style="text-align: center;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22" />
+<div style="text-align: center; width: 100%;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=004080&height=150&animation=fadeIn" style="width: 100%;" />
 </div>
 
 ### Hello World 👋:metal:
@@ -72,6 +72,6 @@ Emojis
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-<div style="text-align: center;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=130&section=footer"/>
+<div style="text-align: center; margin-top: -20px;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=004080&height=130&section=footer&animation=fadeIn" style="width: 100%;" />
 </div>
