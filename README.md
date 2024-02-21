@@ -4,6 +4,8 @@
 
 ### Hello World 👋:metal:
 
+<a href="https://app.daily.dev/vaporfoxlash"><img src="https://api.daily.dev/devcards/v2/lqeN0974WGSpwrMS4HytQ.png?type=default&r=jzr" width="356" alt="Lehlohonolo Radebe D's Dev Card"/></a>
+
 [![Github](https://img.shields.io/github/followers/VaporFoxLash?label=Follow&style=social)](https://github.com/VaporFoxLash)
 
 <!--
