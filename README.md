@@ -25,6 +25,7 @@ Emojis
 <div style="text-align: center;">
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VaporFoxLash&show_icons=true&count_private=true&hide_border=true&title_color=ecf2f8&icon_color=0d1117&text_color=FFFFFF&bg_color=0d1117" alt="DGS1337 github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VaporFoxLash&layout=compact&hide_border=true&title_color=ecf2f8&text_color=FFFFFF&bg_color=0d1117&limit=10" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaporFoxLash&theme=dark&hide_border=true&background=0D1117&stroke=000000&ring=ecf2f8&fire=ecf2f8&currStreakLabel=ecf2f8&sideLabels=ecf2f8&currStreakNum=ecf2f8&sideNums=ecf2f8&dates=FFFFFF" alt="VaporFoxLash's GitHub Readme Streak Stats" />
 </div>
 
 ------
@@ -73,6 +74,9 @@ Emojis
 ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=VaporFoxLash&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <div style="text-align: center; margin-top: -20px;">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=004080&height=130&section=footer&animation=fadeIn" style="width: 100%;" />
